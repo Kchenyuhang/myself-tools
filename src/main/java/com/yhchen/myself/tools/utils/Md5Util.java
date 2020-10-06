@@ -1,7 +1,6 @@
 package com.yhchen.myself.tools.utils;
 
 import java.security.MessageDigest;
-import java.security.NoSuchAlgorithmException;
 
 /**
  * @Author yhChen
